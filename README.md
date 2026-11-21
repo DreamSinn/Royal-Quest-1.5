@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="readme-assets/rq-medieval-banner.svg" alt="Banner medieval animado original para o projeto RQ-1.5"/>
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1000&color=C49A45&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Royal+Quest%3A+mapas%2C+miss%C3%B5es+e+mundos;Mobs+e+itens+do+cliente+em+pesquisa;RQ-1.5%3A+preserva%C3%A7%C3%A3o+e+emula%C3%A7%C3%A3o+experimental" alt="Mapas, missões, mobs e pesquisa sobre Royal Quest"/>
-</p>
+<img width="100%" src="readme-assets/rq-medieval-banner.svg" alt="Banner medieval animado original para o projeto RQ 1.5"/>
 
 <p>
   <img height="38" src="readme-assets/royal-quest-map.png" alt="Ícone do mapa global de Royal Quest"/>
@@ -22,11 +18,15 @@
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1500&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=90&lines=RQ+1.5%3A+um+ambiente+experimental+de+preserva%C3%A7%C3%A3o;Emulador+em+desenvolvimento+e+ferramentas+de+pesquisa;Prova+de+conceito%3A+n%C3%A3o+%C3%A9+um+servidor+completo" alt="RQ 1.5 é um ambiente experimental de preservação, com emulador em desenvolvimento e ferramentas de pesquisa; não é um servidor completo."/>
+</p>
+
 ---
 
 ## Sobre o projeto
 
-O **RQ-1.5** é um ambiente experimental para estudar e preservar aspectos técnicos do MMORPG **Royal Quest**. O repositório reúne um emulador de servidor ainda em desenvolvimento, ferramentas de observação de tráfego e utilitários para investigar arquivos e recursos do jogo.
+O **RQ 1.5** é um ambiente experimental para estudar e preservar aspectos técnicos do MMORPG **Royal Quest**. O repositório reúne um emulador de servidor ainda em desenvolvimento, ferramentas de observação de tráfego e utilitários para investigar arquivos e recursos do jogo.
 
 O emulador é uma prova de conceito: algumas funções básicas já estão disponíveis, mas ele **não é um servidor completo** e pode não funcionar com todas as versões do cliente.
 

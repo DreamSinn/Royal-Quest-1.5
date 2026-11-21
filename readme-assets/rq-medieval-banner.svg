@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">RQ-1.5 — Royal Quest</title>
+  <title id="title">RQ 1.5 — Royal Quest</title>
   <desc id="description">Uma cena medieval fantástica original com castelo, montanhas, estrelas douradas e o nome do projeto.</desc>
   <defs>
     <linearGradient id="sky" x2="0" y2="1">
@@ -41,7 +41,7 @@
 
   <path d="M0 245 105 177l72 52 104-96 106 108 92-58 110 92v85H0z" fill="#29212a"/>
   <path d="m0 279 119-75 87 69 105-54 106 63 107-87 121 75v90H0z" fill="#201d25"/>
-  <path d="M0 300q145-35 284-2t292 0q153-31 305 1t319-5v66H0z" fill="#17181e"/>
+  <path d="M0 310Q180 275 360 300Q460 310 560 278H990Q1080 290 1200 270V360H0z" fill="#17181e"/>
 
   <g fill="url(#stone)" stroke="#b37c43" stroke-opacity=".48" stroke-width="2">
     <path d="M620 278v-91h31v-34h47v34h25v91z"/>
@@ -81,9 +81,8 @@
     <circle cx="540" cy="316" r="2"><animate attributeName="cy" values="316;278;316" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.75;0" dur="4.6s" repeatCount="indefinite"/></circle>
   </g>
 
-  <path d="M0 337h1200" stroke="#d1a34f" stroke-width="2"/>
-  <path d="M28 17h1144v326H28z" fill="none" stroke="#d1a34f" stroke-width="2"/>
-  <path d="M40 30h1120v300H40z" fill="none" stroke="#d1a34f" stroke-opacity=".45"/>
+  <path d="M28 343V17h1144v326" fill="none" stroke="#d1a34f" stroke-width="2"/>
+  <path d="M40 330V30h1120v300" fill="none" stroke="#d1a34f" stroke-opacity=".45"/>
   <path d="m28 49 21-21m1102 0 21 21M28 311l21 21m1102 0 21-21" fill="none" stroke="url(#gold)" stroke-width="4"/>
 
   <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
@@ -91,7 +90,7 @@
     <text x="390" y="127" fill="url(#gold)" font-size="54" font-weight="bold" letter-spacing="5">ROYAL QUEST</text>
     <path d="M192 147h396m-364 7h332" stroke="#d0a04a" stroke-opacity=".75"/>
     <path d="m390 143 7 8-7 8-7-8z" fill="#f1d38b"/>
-    <text x="390" y="184" fill="#f3e5c4" font-size="17" letter-spacing="3">RQ-1.5  |  PRESERVAÇÃO &amp; EMULAÇÃO</text>
+    <text x="390" y="184" fill="#f3e5c4" font-size="17" letter-spacing="3">RQ 1.5  |  PRESERVAÇÃO &amp; EMULAÇÃO</text>
     <text x="390" y="211" fill="#d9b870" font-size="12" letter-spacing="4">UM PROJETO EXPERIMENTAL DE ROYAL QUEST</text>
   </g>
 
