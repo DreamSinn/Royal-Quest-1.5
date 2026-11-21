@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">RQ-1.5 — Royal Quest</title>
+  <desc id="description">Uma cena medieval fantástica original com castelo, montanhas, estrelas douradas e o nome do projeto.</desc>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#17131b"/>
+      <stop offset=".58" stop-color="#382126"/>
+      <stop offset="1" stop-color="#8a4930"/>
+    </linearGradient>
+    <radialGradient id="moon-glow">
+      <stop stop-color="#ffe9a6" stop-opacity=".32"/>
+      <stop offset="1" stop-color="#eab95e" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="gold" x2="0" y2="1">
+      <stop stop-color="#fff0b0"/>
+      <stop offset=".45" stop-color="#d5a448"/>
+      <stop offset="1" stop-color="#85552b"/>
+    </linearGradient>
+    <linearGradient id="stone" x2="0" y2="1">
+      <stop stop-color="#62413a"/>
+      <stop offset="1" stop-color="#211c24"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="5"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" fill="url(#sky)"/>
+  <circle cx="934" cy="104" r="115" fill="url(#moon-glow)"/>
+  <circle cx="934" cy="104" r="37" fill="#f3d996" opacity=".92"/>
+  <circle cx="947" cy="94" r="35" fill="#3a2529"/>
+
+  <g fill="#f6d990">
+    <circle cx="121" cy="72" r="2"><animate attributeName="opacity" values=".25;1;.25" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="251" cy="119" r="1.5"><animate attributeName="opacity" values="1;.2;1" dur="3.6s" repeatCount="indefinite"/></circle>
+    <circle cx="402" cy="54" r="1.8"><animate attributeName="opacity" values=".3;1;.3" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="56" r="2"><animate attributeName="opacity" values="1;.25;1" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="1124" cy="158" r="1.5"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="60" cy="171" r="1.7"><animate attributeName="opacity" values="1;.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path d="M0 245 105 177l72 52 104-96 106 108 92-58 110 92v85H0z" fill="#29212a"/>
+  <path d="m0 279 119-75 87 69 105-54 106 63 107-87 121 75v90H0z" fill="#201d25"/>
+  <path d="M0 300q145-35 284-2t292 0q153-31 305 1t319-5v66H0z" fill="#17181e"/>
+
+  <g fill="url(#stone)" stroke="#b37c43" stroke-opacity=".48" stroke-width="2">
+    <path d="M620 278v-91h31v-34h47v34h25v91z"/>
+    <path d="M678 278V142h40v-32h42v32h36v136z"/>
+    <path d="M773 278v-88h25v-38h44v38h28v88z"/>
+    <path d="M871 278v-71h27v-35h39v35h30v71z"/>
+    <path d="M586 278v-63h27v-28h31v28h20v63z"/>
+    <path d="M637 187h44v-34h-8v-15l-14-18-14 18v15h-8z"/>
+    <path d="M689 145h36v-35h-7V95l-11-18-11 18v15h-7z"/>
+    <path d="M779 191h41v-37h-8v-15l-13-18-12 18v15h-8z"/>
+    <path d="M879 207h38v-34h-7v-14l-12-17-12 17v14h-7z"/>
+  </g>
+
+  <g fill="#f4cb76" opacity=".9">
+    <path d="M699 186h9v17h-9zM699 226h9v17h-9zM787 207h9v17h-9zM887 220h8v15h-8zM647 205h8v14h-8z"/>
+  </g>
+  <g fill="#17171d">
+    <path d="M730 278v-39q0-30 20-30t20 30v39z"/>
+    <path d="M665 278v-24q0-17 12-17t12 17v24z"/>
+    <path d="M817 278v-23q0-16 12-16t12 16v23z"/>
+  </g>
+
+  <g>
+    <path d="M724 110v-43" stroke="#d4ae69" stroke-width="3"/>
+    <path d="M727 69q24 2 38 14-14 13-38 12z" fill="#8f342f">
+      <animateTransform attributeName="transform" type="skewX" values="-4;4;-4" dur="3s" repeatCount="indefinite"/>
+    </path>
+    <path d="M800 157v-43" stroke="#d4ae69" stroke-width="3"/>
+    <path d="M803 116q19 2 31 12-12 12-31 10z" fill="#315744">
+      <animateTransform attributeName="transform" type="skewX" values="3;-3;3" dur="2.6s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <g fill="#e9b955">
+    <circle cx="574" cy="266" r="3"><animate attributeName="cy" values="266;226;266" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1003" cy="291" r="2.5"><animate attributeName="cy" values="291;248;291" dur="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.8;0" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="316" r="2"><animate attributeName="cy" values="316;278;316" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.75;0" dur="4.6s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <path d="M0 337h1200" stroke="#d1a34f" stroke-width="2"/>
+  <path d="M28 17h1144v326H28z" fill="none" stroke="#d1a34f" stroke-width="2"/>
+  <path d="M40 30h1120v300H40z" fill="none" stroke="#d1a34f" stroke-opacity=".45"/>
+  <path d="m28 49 21-21m1102 0 21 21M28 311l21 21m1102 0 21-21" fill="none" stroke="url(#gold)" stroke-width="4"/>
+
+  <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
+    <text x="390" y="130" fill="#1b1519" stroke="#1b1519" stroke-width="7" font-size="54" font-weight="bold" letter-spacing="5">ROYAL QUEST</text>
+    <text x="390" y="127" fill="url(#gold)" font-size="54" font-weight="bold" letter-spacing="5">ROYAL QUEST</text>
+    <path d="M192 147h396m-364 7h332" stroke="#d0a04a" stroke-opacity=".75"/>
+    <path d="m390 143 7 8-7 8-7-8z" fill="#f1d38b"/>
+    <text x="390" y="184" fill="#f3e5c4" font-size="17" letter-spacing="3">RQ-1.5  |  PRESERVAÇÃO &amp; EMULAÇÃO</text>
+    <text x="390" y="211" fill="#d9b870" font-size="12" letter-spacing="4">UM PROJETO EXPERIMENTAL DE ROYAL QUEST</text>
+  </g>
+
+  <circle cx="390" cy="169" r="2" fill="#fff0b0" filter="url(#soft-glow)">
+    <animate attributeName="r" values="2;7;2" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".4;1;.4" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+</svg>

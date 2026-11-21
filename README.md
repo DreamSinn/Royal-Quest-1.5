@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="readme-assets/royal-quest-loading.png" alt="Arte de carregamento original de Royal Quest"/>
+<img width="100%" src="readme-assets/rq-medieval-banner.svg" alt="Banner medieval animado original para o projeto RQ-1.5"/>
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1000&color=C49A45&center=true&vCenter=true&repeat=true&width=850&height=60&lines=Royal+Quest%3A+mapas%2C+miss%C3%B5es+e+mundos;Mobs+e+itens+do+cliente+em+pesquisa;RQ-1.5%3A+preserva%C3%A7%C3%A3o+e+emula%C3%A7%C3%A3o+experimental" alt="Mapas, missões, mobs e pesquisa sobre Royal Quest"/>
