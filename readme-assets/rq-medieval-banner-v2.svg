@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">RQ 1.5 — Royal Quest</title>
-  <desc id="description">Uma cena medieval fantástica original com castelo, montanhas, estrelas douradas e o nome do projeto.</desc>
+  <desc id="description">Uma cena medieval fantástica original com castelo, montanhas, estrelas douradas e o nome RQ 1.5.</desc>
   <defs>
     <linearGradient id="sky" x2="0" y2="1">
       <stop stop-color="#17131b"/>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="readme-assets/rq-medieval-banner.svg" alt="Banner medieval animado original para o projeto RQ 1.5"/>
+<img width="100%" src="readme-assets/rq-medieval-banner-v2.svg" alt="Banner medieval animado original para o projeto RQ 1.5"/>
 
 <p>
   <img height="38" src="readme-assets/royal-quest-map.png" alt="Ícone do mapa global de Royal Quest"/>
