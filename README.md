@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="readme-assets/rq-medieval-banner-v2.svg" alt="Banner medieval animado original para o projeto RQ 1.5"/>
+<img width="100%" src="readme-assets/rq-medieval-banner-v3.svg" alt="Banner medieval animado original para o projeto RQ 1.5"/>
 
 <p>
   <img height="38" src="readme-assets/royal-quest-map.png" alt="Ícone do mapa global de Royal Quest"/>
@@ -22,7 +22,7 @@
 
 ## Sobre o projeto
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1200&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=Um+ambiente+experimental+para+estudar+e+preservar+Royal+Quest;Emulador+e+ferramentas+de+pesquisa+em+desenvolvimento;Prova+de+conceito%3A+n%C3%A3o+%C3%A9+um+servidor+completo" alt="Ambiente experimental para estudar e preservar Royal Quest, com emulador e ferramentas de pesquisa em desenvolvimento; não é um servidor completo."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C1&width=1000&height=72&letterSpacing=1&lines=Um+ambiente+experimental+para+estudar+e+preservar+Royal+Quest;Emulador+e+ferramentas+de+pesquisa+em+desenvolvimento;Prova+de+conceito%3A+n%C3%A3o+%C3%A9+um+servidor+completo" alt="Ambiente experimental para estudar e preservar Royal Quest, com emulador e ferramentas de pesquisa em desenvolvimento; não é um servidor completo."/></p>
 
 O **RQ 1.5** é um ambiente experimental para estudar e preservar aspectos técnicos do MMORPG **Royal Quest**. O repositório reúne um emulador de servidor ainda em desenvolvimento, ferramentas de observação de tráfego e utilitários para investigar arquivos e recursos do jogo.
 
@@ -30,7 +30,7 @@ O emulador é uma prova de conceito: algumas funções básicas já estão dispo
 
 ## O que existe aqui
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1100&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=Emulador+Rust+com+proxy+SOCKS5;Inspe%C3%A7%C3%A3o+de+tr%C3%A1fego+em+ambientes+autorizados;Comandos+de+teste+para+locais%2C+mobs+e+itens;Ferramentas+de+pesquisa+do+cliente+e+seus+recursos;Cliente+local+em+rqsrv_fresh%2Fgame-client" alt="Emulador Rust com proxy SOCKS5, inspeção autorizada, comandos de teste e ferramentas de pesquisa do cliente."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C3&width=1000&height=72&letterSpacing=1&lines=Emulador+Rust+com+proxy+SOCKS5;Inspe%C3%A7%C3%A3o+de+tr%C3%A1fego+em+ambientes+autorizados;Comandos+de+teste+para+locais%2C+mobs+e+itens;Ferramentas+de+pesquisa+do+cliente+e+seus+recursos;Cliente+local+em+rqsrv_fresh%2Fgame-client" alt="Emulador Rust com proxy SOCKS5, inspeção autorizada, comandos de teste e ferramentas de pesquisa do cliente."/></p>
 
 - **Emulador `rqsrv`:** servidor experimental em Rust, acessível pelo cliente por meio de um proxy SOCKS5 local.
 - **Modo de inspeção (`mitm`):** ferramenta para observar e analisar tráfego em ambientes de teste autorizados.
@@ -40,7 +40,7 @@ O emulador é uma prova de conceito: algumas funções básicas já estão dispo
 
 ## Estrutura
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1100&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=rqrev-master%3A+protocolo+e+emulador;game-client%3A+cliente+e+recursos;proxy%3A+Proxychains+para+Windows;GUIA_MOBS.md%3A+notas+sobre+mobs+e+anima%C3%A7%C3%B5es;Scripts+PowerShell+e+Rust%3A+pesquisa+de+recursos" alt="Pastas do emulador, cliente, proxy, guia de mobs e ferramentas de pesquisa."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C3&width=1000&height=72&letterSpacing=1&lines=rqrev-master%3A+protocolo+e+emulador;game-client%3A+cliente+e+recursos;proxy%3A+Proxychains+para+Windows;GUIA_MOBS.md%3A+notas+sobre+mobs+e+anima%C3%A7%C3%B5es;Scripts+PowerShell+e+Rust%3A+pesquisa+de+recursos" alt="Pastas do emulador, cliente, proxy, guia de mobs e ferramentas de pesquisa."/></p>
 
 | Caminho | Conteúdo |
 |---|---|
@@ -52,7 +52,7 @@ O emulador é uma prova de conceito: algumas funções básicas já estão dispo
 
 ## Requisitos
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1300&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=Windows+e+scripts+.bat+preparados+para+este+ambiente;Rust+2024+com+toolchain+nightly;Cliente+compat%C3%ADvel+e+obtido+de+forma+autorizada" alt="Windows, Rust 2024 com nightly e cliente compatível obtido de forma autorizada."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C1&width=1000&height=72&letterSpacing=1&lines=Windows+e+scripts+.bat+preparados+para+este+ambiente;Rust+2024+com+toolchain+nightly;Cliente+compat%C3%ADvel+e+obtido+de+forma+autorizada" alt="Windows, Rust 2024 com nightly e cliente compatível obtido de forma autorizada."/></p>
 
 - Windows (os scripts `.bat` incluídos foram preparados para este ambiente).
 - Rust com suporte à edição 2024 e toolchain **nightly** para o recurso experimental usado pelo código.
@@ -60,7 +60,7 @@ O emulador é uma prova de conceito: algumas funções básicas já estão dispo
 
 ## Compilar
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1300&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=PowerShell%3A+acesse+a+pasta+rqrev-master;Cargo+%2Bnightly+build+%2D%2Drelease;Execut%C3%A1vel+em+target%5Crelease%5Crqsrv.exe" alt="Acesse rqrev-master no PowerShell e compile com cargo +nightly build --release."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C1&width=1000&height=72&letterSpacing=1&lines=PowerShell%3A+acesse+a+pasta+rqrev-master;Cargo+%2Bnightly+build+%2D%2Drelease;Execut%C3%A1vel+em+target%5Crelease%5Crqsrv.exe" alt="Acesse rqrev-master no PowerShell e compile com cargo +nightly build --release."/></p>
 
 No PowerShell, na raiz do repositório:
 
@@ -73,7 +73,7 @@ O executável será gerado em `target\release\rqsrv.exe`.
 
 ## Executar
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1200&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=rqsrv.exe+server%3A+iniciar+o+emulador;SOCKS5+local+em+127.0.0.1%3A8008;rqsrv.exe+mitm%3A+inspe%C3%A7%C3%A3o+autorizada;Ajuste+os+caminhos+absolutos+dos+scripts+.bat" alt="Inicie o emulador, conecte pelo SOCKS5 local ou use mitm apenas para inspeção autorizada."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C2&width=1000&height=72&letterSpacing=1&lines=rqsrv.exe+server%3A+iniciar+o+emulador;SOCKS5+local+em+127.0.0.1%3A8008;rqsrv.exe+mitm%3A+inspe%C3%A7%C3%A3o+autorizada;Ajuste+os+caminhos+absolutos+dos+scripts+.bat" alt="Inicie o emulador, conecte pelo SOCKS5 local ou use mitm apenas para inspeção autorizada."/></p>
 
 Inicie o emulador local:
 
@@ -91,7 +91,7 @@ Também existem scripts `.bat` em `rqsrv_fresh/` para iniciar o servidor, o modo
 
 ## Comandos de teste
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1100&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=%2Floc+%3Cid%3E%3A+trocar+de+local;%2Fspawnmob+%3Cid%3E+%5Bhp%5D+%5Bx%5D+%5By%5D%3A+invocar+mob;%2Fmovemob+%3Cid%3E+%3Cx%3E+%3Cy%3E%3A+mover+entidade;%2Fgive+%3Cid%3E+%3Cquantidade%3E%3A+adicionar+item" alt="Comandos animados para trocar de local, invocar e mover mobs e adicionar itens."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C2&width=1000&height=72&letterSpacing=1&lines=%2Floc+%3Cid%3E%3A+trocar+de+local;%2Fspawnmob+%3Cid%3E+%5Bhp%5D+%5Bx%5D+%5By%5D%3A+invocar+mob;%2Fmovemob+%3Cid%3E+%3Cx%3E+%3Cy%3E%3A+mover+entidade;%2Fgive+%3Cid%3E+%3Cquantidade%3E%3A+adicionar+item" alt="Comandos animados para trocar de local, invocar e mover mobs e adicionar itens."/></p>
 
 Os comandos são enviados pelo chat do jogo:
 
@@ -104,7 +104,7 @@ Os comandos são enviados pelo chat do jogo:
 
 ## Aviso
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&pause=1300&color=C49A45&center=true&vCenter=true&repeat=true&width=1000&height=38&lines=Projeto+independente%2C+experimental+e+n%C3%A3o+afiliado;Use+somente+clientes%2C+servidores+e+tr%C3%A1fego+autorizados;N%C3%A3o+use+para+bots%2C+trapa%C3%A7as+ou+explora%C3%A7%C3%A3o+de+terceiros;Consulte+as+licen%C3%A7as+antes+de+redistribuir" alt="Projeto experimental independente; use apenas clientes, servidores e tráfego autorizados e consulte as licenças antes de redistribuir."/></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=16&duration=3200&pause=850&color=C49A45&center=true&vCenter=true&repeat=true&multiline=true&groups=2%2C2&width=1000&height=72&letterSpacing=1&lines=Projeto+independente%2C+experimental+e+n%C3%A3o+afiliado;Use+somente+clientes%2C+servidores+e+tr%C3%A1fego+autorizados;N%C3%A3o+use+para+bots%2C+trapa%C3%A7as+ou+explora%C3%A7%C3%A3o+de+terceiros;Consulte+as+licen%C3%A7as+antes+de+redistribuir" alt="Projeto experimental independente; use apenas clientes, servidores e tráfego autorizados e consulte as licenças antes de redistribuir."/></p>
 
 Projeto independente, experimental e **não afiliado aos criadores ou operadores de Royal Quest**. Use somente clientes, servidores e tráfego para os quais você tenha autorização. O projeto é voltado a estudo e preservação; não use para bots, trapaças, exploração de serviços de terceiros ou violação dos termos do jogo.
 

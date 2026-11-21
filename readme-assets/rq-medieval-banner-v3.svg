@@ -26,7 +26,9 @@
   </defs>
 
   <rect width="1200" height="360" fill="url(#sky)"/>
-  <circle cx="934" cy="104" r="115" fill="url(#moon-glow)"/>
+  <circle cx="934" cy="104" r="115" fill="url(#moon-glow)" opacity=".55">
+    <animate attributeName="opacity" values=".22;.58;.22" dur="5s" repeatCount="indefinite"/>
+  </circle>
   <circle cx="934" cy="104" r="37" fill="#f3d996" opacity=".92"/>
   <circle cx="947" cy="94" r="35" fill="#3a2529"/>
 
@@ -56,7 +58,11 @@
   </g>
 
   <g fill="#f4cb76" opacity=".9">
-    <path d="M699 186h9v17h-9zM699 226h9v17h-9zM787 207h9v17h-9zM887 220h8v15h-8zM647 205h8v14h-8z"/>
+    <path d="M699 186h9v17h-9z"><animate attributeName="opacity" values=".55;1;.7;1;.55" dur="2.8s" begin="0s" repeatCount="indefinite"/></path>
+    <path d="M699 226h9v17h-9z"><animate attributeName="opacity" values=".55;1;.7;1;.55" dur="2.8s" begin=".35s" repeatCount="indefinite"/></path>
+    <path d="M787 207h9v17h-9z"><animate attributeName="opacity" values=".55;1;.7;1;.55" dur="2.8s" begin=".7s" repeatCount="indefinite"/></path>
+    <path d="M887 220h8v15h-8z"><animate attributeName="opacity" values=".55;1;.7;1;.55" dur="2.8s" begin="1.05s" repeatCount="indefinite"/></path>
+    <path d="M647 205h8v14h-8z"><animate attributeName="opacity" values=".55;1;.7;1;.55" dur="2.8s" begin="1.4s" repeatCount="indefinite"/></path>
   </g>
   <g fill="#17171d">
     <path d="M730 278v-39q0-30 20-30t20 30v39z"/>
@@ -83,11 +89,15 @@
 
   <path d="M28 343V17h1144v326" fill="none" stroke="#d1a34f" stroke-width="2"/>
   <path d="M40 330V30h1120v300" fill="none" stroke="#d1a34f" stroke-opacity=".45"/>
+  <path d="M42 30h1116" fill="none" stroke="#fff0b0" stroke-width="2" stroke-dasharray="28 1088" opacity=".8">
+    <animate attributeName="stroke-dashoffset" values="0;1116" dur="8s" repeatCount="indefinite"/>
+  </path>
   <path d="m28 49 21-21m1102 0 21 21M28 311l21 21m1102 0 21-21" fill="none" stroke="url(#gold)" stroke-width="4"/>
 
   <g text-anchor="middle" font-family="Georgia, 'Times New Roman', serif">
     <text x="390" y="130" fill="#1b1519" stroke="#1b1519" stroke-width="7" font-size="54" font-weight="bold" letter-spacing="5">ROYAL QUEST</text>
     <text x="390" y="127" fill="url(#gold)" font-size="54" font-weight="bold" letter-spacing="5">ROYAL QUEST</text>
+    <text x="390" y="127" fill="none" stroke="#fff0b0" stroke-width="1" opacity=".08" font-size="54" font-weight="bold" letter-spacing="5">ROYAL QUEST<animate attributeName="opacity" values=".04;.42;.04" dur="4s" repeatCount="indefinite"/></text>
     <path d="M192 147h396m-364 7h332" stroke="#d0a04a" stroke-opacity=".75"/>
     <path d="m390 143 7 8-7 8-7-8z" fill="#f1d38b"/>
     <text x="390" y="184" fill="#f3e5c4" font-size="17" letter-spacing="3">RQ 1.5  |  PRESERVAÇÃO &amp; EMULAÇÃO</text>
